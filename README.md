@@ -9,3 +9,6 @@ Copy `settings.example.js` to `settings.js` and add your settings to `settings.j
 Launch `index.html` in your favorite browser.
 
 Sit back and enjoy the view.
+
+
+test
